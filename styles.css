@@ -42,7 +42,10 @@ header nav a {
 header nav a:hover {
     color: #ddd;
 }
-
+header nav a.active {
+    color: #ff6b6b;
+    font-weight: bold;
+}
 /* Section titles */
 section {
     padding: 2rem 0;
