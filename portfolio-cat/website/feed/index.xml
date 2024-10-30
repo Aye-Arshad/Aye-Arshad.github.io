@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio-cat/website/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Web Developer &#124; Game Developer &#124; Graphic Designer &#124;  Researcher</description>
-	<lastBuildDate>Mon, 28 Oct 2024 14:11:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Oct 2024 07:56:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,19 +21,33 @@
 	
 
 <image>
-	<url>/wp-content/uploads/2024/10/cropped-Ayesha_Logo-32x32.png</url>
+	<url>/wp-content/uploads/2024/10/cropped-Ayesha_Logo_circle-150x150-1-32x32.png</url>
 	<title>Website &#8211; Ayesha Arshad</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Avenzaland</title>
+		<link>/portfolio/avenzaland/</link>
+		
+		<dc:creator><![CDATA[demo]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2024 07:56:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=portfolio#038;p=285</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">285</post-id>	</item>
+		<item>
 		<title>Orthopedic Surgeon Website</title>
 		<link>/portfolio/orthopedic-surgeon-website/</link>
 		
 		<dc:creator><![CDATA[demo]]></dc:creator>
 		<pubDate>Mon, 28 Oct 2024 14:11:50 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=portfolio#038;p=202</guid>
+				<guid isPermaLink="false">https://ray-of-millipedes.jurassic.ninja/?post_type=portfolio&#038;p=202</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -47,7 +61,7 @@
 		
 		<dc:creator><![CDATA[demo]]></dc:creator>
 		<pubDate>Mon, 28 Oct 2024 14:08:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=portfolio#038;p=197</guid>
+				<guid isPermaLink="false">https://ray-of-millipedes.jurassic.ninja/?post_type=portfolio&#038;p=197</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
