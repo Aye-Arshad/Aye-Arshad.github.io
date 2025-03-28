@@ -1,4 +1,4 @@
-/*! Auxin Pro Tools - v1.9.3 (2024-10)
+/*! Auxin Pro Tools - v1.9.5 (2024-12)
  *  All required plugins 
  *  https://phlox.pro
  */

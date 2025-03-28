@@ -18,10 +18,10 @@ body{ font-family:'Poppins'; }
 @media screen and (min-width: 700px) { .aux-framed .aux-side-frames, body.aux-framed:after, .aux-framed .aux-side-frames:before, .aux-framed .aux-side-frames:after {background-color:#111111;}}
 /* sticky-header-color 
 =========================*/
-.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section, .aux-elementor-header.aux-sticky [data-elementor-type="header"] > .elementor-section { background-color:#FFFFFF !important; }
+.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section { background-color:#FFFFFF !important; }
 /* site-header-container-scaled-height 
 =========================*/
-.aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0 > .aux-item-content, .aux-top-sticky .site-header-section.aux-sticky .aux-header-elements,.aux-elementor-header.aux-sticky [data-elementor-type="header"] > .elementor-section > .elementor-container,.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section > .elementor-container { min-height:80px; }
+.aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0 > .aux-item-content, .aux-top-sticky .site-header-section.aux-sticky .aux-header-elements,.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section > .elementor-container { min-height:80px; }
 /* site-header-container-height 
 =========================*/
 .site-header-section .aux-header-elements:not(.aux-vertical-menu-elements), .site-header-section .aux-fill .aux-menu-depth-0 > .aux-item-content { height:85px; }
@@ -172,15 +172,3 @@ body { background-attachment:scroll; }
 /* page-title--typography 
 =========================*/
 .page-title{ font-family:'Montserrat'; color:var(--e-global-color-c2a7491); font-size:38px; font-weight:600; } 
-/* elementor-color-primary 
-=========================*/
-.aux-customize-preview.elementor-kit-65 {--e-global-color-primary: #2D2E32;}
-/* elementor-color-secondary 
-=========================*/
-.aux-customize-preview.elementor-kit-65 {--e-global-color-secondary: #FECD1A;}
-/* elementor-color-text 
-=========================*/
-.aux-customize-preview.elementor-kit-65 {--e-global-color-text: #FFAF29;}
-/* elementor-color-accent 
-=========================*/
-.aux-customize-preview.elementor-kit-65 {--e-global-color-accent: #64F4AB;}
