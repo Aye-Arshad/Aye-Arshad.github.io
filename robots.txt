@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aye-arshad.github.io/sitemap.xml
