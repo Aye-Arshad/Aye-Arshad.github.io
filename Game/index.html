@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Escape from Darkrox: Prism of Shadows | Ayesha Arshad</title>
+    <title>Unity WebGL Player | Escape From Darkrox Prism of Shadows</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -18,9 +18,9 @@
       </div>
       <div id="unity-warning"> </div>
       <div id="unity-footer">
- 
+        <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">Escape from Darkrox Prism of Shadows</div>
+        <div id="unity-build-title">Escape From Darkrox Prism of Shadows</div>
       </div>
     </div>
     <script>
@@ -57,14 +57,14 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WE.loader.js";
+      var loaderUrl = buildUrl + "/game.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WE.data.br",
-        frameworkUrl: buildUrl + "/WE.framework.js.br",
-        codeUrl: buildUrl + "/WE.wasm.br",
+        dataUrl: buildUrl + "/game.data.br",
+        frameworkUrl: buildUrl + "/game.framework.js.br",
+        codeUrl: buildUrl + "/game.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "Breaking Shadowrock",
+        productName: "Escape From Darkrox Prism of Shadows",
         productVersion: "1.0",
         showBanner: unityShowBanner,
       };
